@@ -1,9 +1,13 @@
 Skyrim belongs to the Gourds!
-Requested by Reddit user aswd2471 in this thread.
 
-I first saw it on /r/skyrimmods here.
+Requested by Reddit user aswd2471.
 
 Seemed like a reasonable enough request, so I knocked it out in about an hour, then spent a couple more hours figuring out skinning/rigging, plus a bit more for testing. Call it 3 hours? Plus this is the first time I've ever rigged a mesh! Only two bones, but hey, first time!
+
+Version 1.1.1: CONSOLES BELONG TO THE GOURDS!
+
+Gourds have annexed the XBox console, because the PC wasn't big enough for them.
+They eyed the PS4 longingly, but Sony says no. Too bad.
 
 Version 1.1.0: Gourds with Legs
 
@@ -34,9 +38,3 @@ So with all that in mind, I am not supporting Gourds with Shields at the moment.
 
 Q. Why?
 A. Because.
-
-Q. Familiar Faces?
-A. Getting back to it.
-
-Q. SkyBox?
-A. Finished with testing, published soon! 
